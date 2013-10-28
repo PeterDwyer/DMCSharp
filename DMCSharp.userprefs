@@ -1,0 +1,29 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Monster.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DMCSharp.cs" Line="3488" Column="1" />
+      <File FileName="Assets/Scripts/FluxCage.cs" Line="28" Column="64" />
+      <File FileName="Assets/Scripts/DngView.cs" Line="126" Column="10" />
+      <File FileName="Assets/Scripts/DngClick.cs" Line="160" Column="10" />
+      <File FileName="Assets/Scripts/HeroClick.cs" Line="173" Column="10" />
+      <File FileName="Assets/Scripts/HeroSheet.cs" Line="556" Column="10" />
+      <File FileName="Assets/Scripts/SheetClick.cs" Line="560" Column="10" />
+      <File FileName="Assets/Scripts/MirrorClick.cs" Line="181" Column="9" />
+      <File FileName="Assets/Scripts/DngMove.cs" Line="578" Column="10" />
+      <File FileName="Assets/Scripts/Formation.cs" Line="126" Column="10" />
+      <File FileName="Assets/Scripts/SpellSheet.cs" Line="224" Column="10" />
+      <File FileName="Assets/Scripts/WeaponSheet.cs" Line="1" Column="10" />
+      <File FileName="Assets/Scripts/ArrowSheet.cs" Line="89" Column="10" />
+      <File FileName="Assets/Scripts/Message.cs" Line="83" Column="10" />
+      <File FileName="Assets/Scripts/Holding.cs" Line="42" Column="9" />
+      <File FileName="Assets/Scripts/Projectile.cs" Line="541" Column="10" />
+      <File FileName="Assets/Scripts/Monster.cs" Line="2303" Column="10" />
+      <File FileName="Assets/Scripts/Hero.cs" Line="3196" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
